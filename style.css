@@ -1,0 +1,26 @@
+
+p {
+    color:blue;
+    font-family:cursive;
+}
+
+body {
+
+    color: orange;
+    
+}
+h1 {
+    font-size:25px;
+    font-family:fantasy;
+}
+h2 {
+    color:blue;
+    font-size:15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h3 {
+    font-size:20px;
+    font-family:fantasy;
+
+}
